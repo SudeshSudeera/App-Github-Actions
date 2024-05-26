@@ -8,4 +8,4 @@ app.get('/', (req, resp)=>{
 
 app.listen(port, ()=>{
     console.log('Server started and running on port 3000');
-})
+});
